@@ -46,6 +46,38 @@ The accompanying diagram illustrates the hierarchical architecture of classes an
 </p> 
 <br />
 
+<p align="center">
+<br />Window create account & Methods of class create account
+  
+<br /><img width="484" height="208" alt="image" src="https://github.com/user-attachments/assets/d5787344-66e4-424c-a6da-b3078705be7b" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img width="458" height="219" alt="image" src="https://github.com/user-attachments/assets/051982a8-7aa2-45c6-8fe4-19de0aa31eca" />
+</p> 
+<br />
+
+<p align="center">
+<br />Notes App window & NoteApp class methods
+  
+<br /><img width="1155" height="711" alt="image" src="https://github.com/user-attachments/assets/18139a30-d4f7-42a6-ac43-78ab65105143" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img width="414" height="614" alt="image" src="https://github.com/user-attachments/assets/58cb08a5-4839-4961-a7cb-91ee0b363865" />
+</p> 
+<br />
+
+<p align="center">
+<br />Illustration of scroll bars & Code that scrolls the Note App window
+  
+<br /><img width="710" height="517" alt="image" src="https://github.com/user-attachments/assets/b1515d87-3a0d-47a0-8d33-9fa3d6000044" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img width="904" height="276" alt="image" src="https://github.com/user-attachments/assets/a0972366-fb5a-4bbf-8249-e88fae72f02d" />
+</p> 
+<br />
+
+<p align="center">
+<br />Selection window & The "bind" method for double-click selection
+  
+<br /><img width="499" height="240" alt="image" src="https://github.com/user-attachments/assets/6797d240-bc09-4c3d-a235-998c62405f73" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img width="912" height="135" alt="image" src="https://github.com/user-attachments/assets/7f2feb50-db5b-4b58-b436-47b65c7e1444" />
+</p> 
+<br />
+
+
+
+
+
 
 <br />
 
