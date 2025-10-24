@@ -101,6 +101,10 @@ class ExportPdfDoc
 class Audio
 * The create_sound method prepends the text and language setting using the gTTs API and passes it to a server which converts it to an audio file
 * The play method prepends the file created by the create_sound method and plays it, after which it will delete the audio file
+
+<p align="center">
+<br /><img width="432" height="291" alt="image" src="https://github.com/user-attachments/assets/b0ed7fb7-7868-4bd0-849f-36264542ef52" />
+</p> 
 <br />
 <br />
 
