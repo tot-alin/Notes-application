@@ -2,16 +2,15 @@
 
 Description  [note_app.pdf](https://github.com/user-attachments/files/21039068/note_app.pdf)
 
-Notes application is a versatile tool that allows you to take notes in a simple and fast
-way. The particularity of this application is that it can memorize the user's past or future notes
-by selecting a reference date from the calendar. The data is saved in a database that can be
-accessed on the basis of a username and password
+Notes application is a versatile tool that allows users to quickly edit and organize textual information, such as ideas, tasks, events, etc., related to a specific calendar date. The data is saved in a database that can be accessed with a username and password.
 
 demo 
 * username:inventii  
 * password:1234
+<br />
+<br />
 
-Technologies used
+## Technologies used
 * Python -Python is a dynamic, high-level, object-oriented programming language developed by Guido van Rossum in 1989
 * SQLite (sqlite3) - sqlite3 is an API for SQLite, it realizes a database on the physical memory medium of the computer
 * Google Text-to-Speech (gtts) - Google Text-to-Speech API, converts input text to audio
@@ -22,12 +21,19 @@ Technologies used
 * Python Time (time) - module that provides various methods to work with time-related operations in particular for measuring execution time, pausing execution and retrieving the current time.
 * Tk (tkinter) - is a standard Python GUI (Graphical User Interface) library that provides a set of tools and widgets to create desktop applications with graphical user interfaces.
 
-Bibliography:
-* https://ro.wikipedia.org/wiki/Python
-* https://pyfpdf.readthedocs.io/en/latest/
-* https://github.com/pndurette/gTTS
-* https://pypi.org/project/playsound3/
-* https://docs.python.org/3/library/sqlite3.html
-* https://docs.python.org/3/library/datetime.html
-* https://levelup.gitconnected.com/time-module-vs-datetime-module-in-python-f4a5e818350a
-* https://www.geeksforgeeks.org/introduction-to-tkinter/
+## Bibliography:
+https://ro.wikipedia.org/wiki/Python
+
+https://pyfpdf.readthedocs.io/en/latest/
+
+https://github.com/pndurette/gTTS
+
+https://pypi.org/project/playsound3/
+
+https://docs.python.org/3/library/sqlite3.html
+
+https://docs.python.org/3/library/datetime.html
+
+https://levelup.gitconnected.com/time-module-vs-datetime-module-in-python-f4a5e818350a
+
+https://www.geeksforgeeks.org/introduction-to-tkinter/
