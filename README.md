@@ -68,28 +68,39 @@ The accompanying diagram illustrates the hierarchical architecture of classes an
 <br />
 
 <p align="center">
-<br />Selection window & The "bind" method for double-click selection
+<br />Selection window & The "bind" method for double-click selection & The window reordering method
   
-<br /><img width="499" height="240" alt="image" src="https://github.com/user-attachments/assets/6797d240-bc09-4c3d-a235-998c62405f73" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img width="912" height="135" alt="image" src="https://github.com/user-attachments/assets/7f2feb50-db5b-4b58-b436-47b65c7e1444" />
+<br /><img width="499" height="240" alt="image" src="https://github.com/user-attachments/assets/6797d240-bc09-4c3d-a235-998c62405f73" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img width="912" height="135" alt="image" src="https://github.com/user-attachments/assets/7f2feb50-db5b-4b58-b436-47b65c7e1444" />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img width="933" height="297" alt="image" src="https://github.com/user-attachments/assets/c7d824f3-3c12-4dd0-b992-2eb4914dafc9" />
 </p> 
 <br />
-
-
-
-
-
-
 <br />
 
+## The window reordering method
+* test_db - test if the database exists
+* open_sql - open and connect to the database
+* close_sql - close the cursor and the connection to the database
+* insert_user - write user password, and create new table
+* ver_user_password - check user and password in the intended table (users)
+* save_data - save notes to table named after user name
+* in_sort - pre-sort table information to refresh_list_box sorted in the form requested by list_box
+* refresh_list_box - send list_box the requested data
+* get_data_db - search database for user information and record parameters 
+* del_record - delete a record
+* up_record - modify a record
+
+<p align="center">
+<br /><img width="651" height="574" alt="image" src="https://github.com/user-attachments/assets/8f1cbe39-1c90-47fb-876e-dad6f5a4c383" />
+</p> 
 <br />
 <br />
 
-<br />
-<br />
+## ExportPdfDoc and Audio class methods
+class ExportPdfDoc
+* The export_to_pdf method is called from the NoteApp class with the parameters title and content text. This method generates a PDF document according to a given template.
 
-<br />
-<br />
-
+class Audio
+* The create_sound method prepends the text and language setting using the gTTs API and passes it to a server which converts it to an audio file
+* The play method prepends the file created by the create_sound method and plays it, after which it will delete the audio file
 <br />
 <br />
 
