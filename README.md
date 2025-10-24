@@ -1,7 +1,5 @@
 # Notes Application
 
-Description  [note_app.pdf](https://github.com/user-attachments/files/21039068/note_app.pdf)
-
 Notes application is a versatile tool that allows users to quickly edit and organize textual information, such as ideas, tasks, events, etc., related to a specific calendar date. The data is saved in a database that can be accessed with a username and password.
 
 demo 
